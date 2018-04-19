@@ -7,11 +7,14 @@ published: true
 title: Style Tiles
 ---
 
-Gekozen
+# Gekozen
 -------
+![style tile]({{ 'assets/img/styletile2.jpg' | relative_url }}){:.mijnklasse}
 
-Alternatief 1
+# Alternatief 1
 -------------
+![style tile 1]({{ 'assets/img/styletile1.jpg' | relative_url }}){:.mijnklasse}
 
-Alternatief 2
+# Alternatief 2
 -------------
+![style tile]({{ 'assets/img/styletile3.jpg' | relative_url }}){:.mijnklasse}

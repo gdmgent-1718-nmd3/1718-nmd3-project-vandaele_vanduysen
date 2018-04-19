@@ -13,8 +13,9 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Barbara Van Daele
+ - Tess Van Duysen
 
 Gekozen Museum
 --------------
+ - Verbeke Foundation, Kemzeke

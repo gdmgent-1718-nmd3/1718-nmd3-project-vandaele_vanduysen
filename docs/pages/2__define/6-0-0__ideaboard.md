@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+![ideaboard]({{ 'assets/img/ideaboard.jpg' | relative_url }}){:.mijnklasse}
