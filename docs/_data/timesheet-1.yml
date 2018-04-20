@@ -3,26 +3,53 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Analyse - persona's + museum zoeken
 -
   time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  task: Analyse - scenario
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Analyse - journey maps
+-
+  time: 4
+  task: Analyse - museumbezoek
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Analyse - interviews uitschrijven
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Analyse - herwerking na feedback
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Concept - concept bepalen 
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Concept - elevator pitch
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: Concept - ideaboard
+-
+  time: 3
+  task: Concept - style tiles
+-
+  time: 2
+  task: Productiedossier
+-
+  time: 2
+  task: Smartwatch-app - research
+-
+  time: 4
+  task: Smartwatch-app - paper prototype
+-
+  time: 2
+  task: Smartphone-app - research
+-
+  time: 4
+  task: Smartphone-app - digital prototype
+-
+  time: 6
+  task: Smartphone-app - screendesign
+-
+  time: 2
+  task: Productiedossier
