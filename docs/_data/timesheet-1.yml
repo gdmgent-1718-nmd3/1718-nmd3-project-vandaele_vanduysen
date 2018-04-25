@@ -1,5 +1,5 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ barbara   ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
@@ -42,13 +42,19 @@
   time: 4
   task: Smartwatch-app - paper prototype
 -
+  time: 1.5
+  task: Smartwatch-app - gebruikerstest
+-
   time: 2
   task: Smartphone-app - research
 -
   time: 4
   task: Smartphone-app - digital prototype
 -
-  time: 6
+  time: 1.5
+  task: Smartphone-app - gebruikerstest
+-
+  time: 7
   task: Smartphone-app - screendesign
 -
   time: 2
