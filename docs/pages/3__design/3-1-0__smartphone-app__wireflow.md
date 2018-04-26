@@ -6,4 +6,5 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-[wireflow](https://xd.adobe.com/view/a33301c0-a687-416c-6fe4-a20bed421853-d502/?fullscreen)
+
+<a href="https://xd.adobe.com/view/a33301c0-a687-416c-6fe4-a20bed421853-d502/?fullscreen" target="_parent" class="btn btn-primary">Wireflow Smartphone</a>
