@@ -9,7 +9,7 @@ title: Gebruikerstests
 
 Paper Prototype
 ---------------
-<a href="https://youtu.be/bumTADisbu0" target="_parent" class="btn btn-primary">Gebruikerstest 1</a>
+<a href="https://youtu.be/bumTADisbu0" target="_parent" class="btn btn-primary button">Gebruikerstest 1</a>
 
 <a href="https://youtu.be/FaGRdGYUxyM" target="_parent" class="btn btn-primary">Gebruikerstest 2</a>
 
