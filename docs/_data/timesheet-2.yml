@@ -59,3 +59,15 @@
 -
   time: 2
   task: Productiedossier
+-
+  time: 0.5
+  task: Website - sitemap
+-
+  time: 4
+  task: Website - wireframes
+-
+  time: 5.5
+  task: Website - visual design
+-
+  time: 0.5
+  task: Website - prototype

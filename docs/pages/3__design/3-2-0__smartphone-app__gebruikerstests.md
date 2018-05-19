@@ -10,17 +10,10 @@ title: Gebruikerstests
 Digital Prototype
 -----------------
 
+<a href="https://youtu.be/iBKMwzS3eCs" target="_parent" class="btn btn-primary">Gebruikerstest 1</a>
 
-<video width="480" controls poster="assets/video/gebruikerstest_smartwatch.mp4">
-  <source
-    src="assets/video/gebruikerstest_smartwatch.mp4"
-    type="video/mp4">
-  Your browser doesn't support HTML5 video tag.
-</video>
+<a href="https://youtu.be/4cdKaEHXxJ4" target="_parent" class="btn btn-primary">Gebruikerstest 2</a>
 
-
-## Verslag
-Deze gebruikerstest is gebaseerd op de journeymap van Fran. Zij bezoekt het museum maar mist informatie, dankzij onze app wordt dit probleem opgelost.
 
 We merkten op:
  - de tekst is te klein

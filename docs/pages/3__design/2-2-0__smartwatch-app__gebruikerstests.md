@@ -9,10 +9,11 @@ title: Gebruikerstests
 
 Paper Prototype
 ---------------
-![gebruikerstest]({{ 'assets/video/gebruikerstest_smartwatch.mp4' | relative_url }}){:.journey}
+<a href="https://youtu.be/bumTADisbu0" target="_parent" class="btn btn-primary">Gebruikerstest 1</a>
+
+<a href="https://youtu.be/FaGRdGYUxyM" target="_parent" class="btn btn-primary">Gebruikerstest 2</a>
 
 ## Verslag
-Deze gebruikerstest is gebaseerd op de journeymap van Steven. Hij bezoekt het museum met zijn kinderen als er plots iemand naar het toilet moet. Het doel is om via de app snel en gemakkelijk het toilet terug te vinden. 
 
 We merkten op:
  - de 'opties-knop' is te klein
