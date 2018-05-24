@@ -1,0 +1,48 @@
+.button{
+    width: 200px;
+    height: 50px;
+    border-color: #206D5D;
+    color: #206D5D;
+    border-width: 2pt;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 16pt;
+    margin-left: 50px;
+}
+.button:active{
+    background-color:#206D5D;
+    color: white;
+    border: none;
+}
+.button_afgerond{
+    border-radius: 15px 50px;
+}
+.screenshot{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.screenshot_klein{
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.tekst_arial{
+    font-family: 'arial', sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    color: #1F4E67;
+}
+.tekst_dosis_H2{
+    font-family: 'Dosis', sans-serif;
+    font-size: 24pt;
+    font-weight: 600;
+    color: #1F4E67;
+}
+.tekst_dosis_B{
+    font-family: 'Dosis', sans-serif;
+    font-size: 12pt;
+    font-weight: 500;
+    color: #1F4E67;
+}

@@ -19,7 +19,7 @@ Dan zou ik efficiënt met mijn kinderen door het museum kunnen wandelen
 ## Journey map
 {:.mb-4}
 ![journeyman]({{ 'assets/img/journeyman.jpg' | relative_url }}){:.journey}
-
+<hr>
 # Persona 2
 {:.mb-4}
 ![persona1]({{ 'assets/img/vrouw.jpg' | relative_url }}){:.journey}

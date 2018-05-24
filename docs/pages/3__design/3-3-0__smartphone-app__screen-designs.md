@@ -6,4 +6,5 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-<a href="https://xd.adobe.com/view/5578bee0-4c7d-42a3-6aee-a898896bcd88-2349/?fullscreen" target="_parent" class="btn btn-primary">Screendesign Smartphone</a>
+<a href="https://xd.adobe.com/view/5578bee0-4c7d-42a3-6aee-a898896bcd88-2349/?fullscreen" target="_parent" class="btn btn-primary">Screendesign Smartphone</a><br>
+![persona1]({{ 'assets/img/visuals_smartphone.png' | relative_url }}){:.journey}
