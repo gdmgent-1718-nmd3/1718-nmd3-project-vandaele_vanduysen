@@ -10,6 +10,8 @@ title: Briefing
 Opdracht
 --------
 
+Ontwerp een app voor smartphone en smartwatch waarbij je de bezoeker van je gekozen museum een nieuwe gebruikersbeleving geeft. Nadien promoot je deze apps via een website.
+
 Teamleden
 ---------
 

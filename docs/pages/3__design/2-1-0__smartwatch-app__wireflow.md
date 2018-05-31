@@ -7,4 +7,5 @@ published: true
 title: Wireflow
 ---
 
-Paper prototype
+![wireflow]({{ 'assets/img/voorstudie_1.png' | relative_url }}){:.afb_klein}
+![wireflow]({{ 'assets/img/voorstudie_2.png' | relative_url }}){:.afb_klein}

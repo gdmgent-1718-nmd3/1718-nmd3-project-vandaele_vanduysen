@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Formulieren
 ---
+![formulier]({{ 'assets/img/formulier.png' | relative_url }}){:.screenshot}
