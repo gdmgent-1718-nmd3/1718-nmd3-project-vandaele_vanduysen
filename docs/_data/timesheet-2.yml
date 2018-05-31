@@ -3,7 +3,7 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 3
+  time: 4
   task: Analyse - persona's + museum zoeken
 -
   time: 0.5
@@ -12,7 +12,7 @@
   time: 2
   task: Analyse - journey maps
 -
-  time: 4
+  time: 5
   task: Analyse - museumbezoek
 -
   time: 1
@@ -32,9 +32,6 @@
 -
   time: 3
   task: Concept - style tiles
--
-  time: 2
-  task: Productiedossier
 -
   time: 2
   task: Smartwatch-app - research
@@ -57,8 +54,8 @@
   time: 1.5
   task: Smartphone-app - gebruikerstest
 -
-  time: 3
-  task: Productiedossier
+  time: 7
+  task: Smartphone-app - screendesign
 -
   time: 0.5
   task: Website - sitemap
@@ -66,11 +63,14 @@
   time: 4
   task: Website - wireframes
 -
-  time: 5.5
+  time: 6.5
   task: Website - visual design
 -
-  time: 0.5
+  time: 1
   task: Website - prototype
 -
-  time: 2.5
+  time: 5
   task: Style guide
+-
+  time: 7
+  task: Productiedossier

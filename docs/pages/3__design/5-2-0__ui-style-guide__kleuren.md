@@ -7,7 +7,7 @@ published: true
 title: Kleuren
 ---
 ## App
-![kleuren_app]({{ 'assets/img/kleuren_app.png' | relative_url }})
+![kleuren_app]({{ 'assets/img/kleuren_app.png' | relative_url }}){:.screenshot}
 
 ## Website
-![kleuren_web]({{ 'assets/img/kleuren_web.png' | relative_url }})
+![kleuren_web]({{ 'assets/img/kleuren_web.png' | relative_url }}){:.screenshot}
