@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+
+![mockup]({{ 'assets/img/mockup_sw.jpg' | relative_url }}){:.afb_normaal}

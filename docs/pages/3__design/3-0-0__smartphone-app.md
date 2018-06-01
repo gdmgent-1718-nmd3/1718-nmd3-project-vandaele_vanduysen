@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Smartphone-app
 ---
+
+![mockup]({{ 'assets/img/mockup_sp.jpg' | relative_url }}){:.afb_klein mx-auto}

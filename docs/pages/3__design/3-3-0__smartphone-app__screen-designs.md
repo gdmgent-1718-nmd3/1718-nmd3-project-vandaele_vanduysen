@@ -6,6 +6,6 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-<a href="https://xd.adobe.com/view/5578bee0-4c7d-42a3-6aee-a898896bcd88-2349/?fullscreen" target="_parent" class="btn btn-primary">Screendesign Smartphone</a><br>
+<a href="https://xd.adobe.com/view/5578bee0-4c7d-42a3-6aee-a898896bcd88-2349/" target="_parent" class="btn btn-primary">Bekijk in Adobe XD</a><br>
 
 ![visuals_smartphone]({{ 'assets/img/visuals_smartphone.png' | relative_url }}){:.afb_normaal}

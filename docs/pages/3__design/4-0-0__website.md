@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Website
 ---
+
+![mockup]({{ 'assets/img/mockup_site.jpg' | relative_url }}){:.afb_normaal}
